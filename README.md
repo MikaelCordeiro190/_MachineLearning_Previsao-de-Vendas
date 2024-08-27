@@ -43,7 +43,8 @@ Para facilitar a análise exploratória foi criado um Mindmap para ajudar na con
 
 Mapa de Hipóteses foi criado na Ferramenta Coggle.
 
-![mindmap](https://github.com/user-attachments/assets/cfb3e9b2-e88e-4231-9b83-98700b1f57ab)
+![image](https://github.com/user-attachments/assets/24638154-523f-476b-88bc-58cbe66485ef)
+
 
 Através do Mindmap, foram geradas 19 hipóteses de negócio. Dessas, 12 foram selecionadas para validação, confirmando premissas da equipe de negócios e do responsável pelo problema. Além disso, foram gerados insights relevantes para ambos os grupos.
 
@@ -53,19 +54,22 @@ Dos 12 hipóteses verificadas, destacaram-se 3 principais insights.
 
 VERDADEIRA Lojas vendem mais depois do dia 10 de cada mes.
 
-![image](https://github.com/user-attachments/assets/a6645913-1e92-4f35-b812-a02e8fff1998)
+![image](https://github.com/user-attachments/assets/dcb96691-5aa1-4db5-ba13-2cb1f08790ed)
+
 
 # 1.1 Lojas deveriam vender menos aos finais de semana.
 
 VERDADEIRA Lojas vendem menos nos final de semana
 
-![image](https://github.com/user-attachments/assets/b0f5cacb-53d0-4c35-8ebc-d950a9050ecc)
+![image](https://github.com/user-attachments/assets/5f8c5119-2f60-458d-a1cf-c608c4bf6790)
+
 
 # 1.2 Lojas deveriam vender menos durante os feriados escolares.
 
 VERDADEIRA Lojas vendem menos durante os feriadso escolares, except os meses de Julho e Agosto.
 
-![image](https://github.com/user-attachments/assets/3043c330-bb82-451f-b180-13d96714ac41)
+![image](https://github.com/user-attachments/assets/9bfa0bae-296f-4127-9007-903db611538a)
+
 
 # Definição de Modelos de Machine Learning
 No primeiro ciclo do projeto, foram selecionados cinco algoritmos para teste, visando identificar o algoritmo com melhor desempenho e custo de implementação. Nessa etapa inicial, optou-se pela simplicidade, considerando que era o primeiro ciclo do projeto e o objetivo principal era entregar uma solução mínima utilizável para a equipe de negócios e pelo CFO.
@@ -88,7 +92,8 @@ Os 5 algoritmos foram treinados e as métricas MAE, MAPE e RMSE. Aqui, nesta eta
 
 *RMSE* (Root Mean Squared Error): O RMSE é uma métrica de avaliação comum em modelos de regressão que calcula a raiz quadrada da média dos quadrados das diferenças entre as previsões do modelo e os valores reais. O RMSE fornece uma medida da dispersão dos erros no modelo, onde valores menores indicam uma melhor precisão do modelo. Ele é sensível a grandes erros devido à natureza quadrática do cálculo.
 
-![image](https://github.com/user-attachments/assets/85f1d9fb-1f2c-4b2c-8eb5-31a49af362f1)
+![image](https://github.com/user-attachments/assets/a95011b4-d31e-45ee-8091-bc9d2b9a7dd4)
+
 
 # 1.2 Time Series Cross-Validation
 
