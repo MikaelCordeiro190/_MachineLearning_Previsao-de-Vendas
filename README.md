@@ -99,11 +99,13 @@ Os 5 algoritmos foram treinados e as métricas MAE, MAPE e RMSE. Aqui, nesta eta
 
 Cross Validation é uma técnica muito utilizada para avaliação de desempenho de modelos de aprendizado de máquina. O CV consiste em particionar os dados em conjuntos(partes), onde um conjunto é utilizado para treino e outro conjunto é utilizado para teste e avaliação do desempenho do modelo.
 
-![image](https://github.com/user-attachments/assets/fe581bf6-215c-44e7-939d-361c52f03c1d)
+![image](https://github.com/user-attachments/assets/20d33226-a156-4bf1-b50c-162607bf872b)
+
 
 Com esse método de validação, foram obtidas as seguintes performances:
 
-![image](https://github.com/user-attachments/assets/1d13a89d-7421-4721-80fa-9cda0c10fb42)
+![image](https://github.com/user-attachments/assets/2cdfab23-59d6-4f43-8fd9-b4a4f01d2efd)
+
 
 
 # 1.1 Escolha do Modelo
