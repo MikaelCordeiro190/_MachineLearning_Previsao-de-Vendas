@@ -1,9 +1,3 @@
-
-<<<<<<< HEAD
-O contexto deste projeto é baseado em uma reunião da Rossmann, na qual o CFO da empresa fez uma solicitação de resultados mensais com todos os gerentes de loja e requisitou que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas, a fim de obter um orçamento para realizar uma reforma nas lojas. Portanto, é de fundamental importância obter essa previsão nas vendas. Em seguida, os gerentes entraram em contato com o time de dados da empresa, solicitando uma previsão de vendas das lojas as quais gerenciam.
-
-sdfsfdfasdfasdfadfasdfasdfadsfadfasdfasdfasfdasf
-=======
 # Problema de Negocio
 Prever as proximas semanas de vendas diárias para 32 lojas localizadas em Brasilia. Previsões de vendas confiáveis ​​permitem que os gerentes de loja criem cronogramas de equipe eficazes que aumentam a produtividade e a motivação.
 
