@@ -7,14 +7,16 @@ O contexto deste projeto é baseado em uma reunião juntamento com o Gerentes e 
 
 # Descrição dos Dados
 
-![image](https://github.com/user-attachments/assets/453536f9-d7dc-493d-a34b-7b97f1c8996e)
+![image](https://github.com/user-attachments/assets/340cd3a5-15c8-49b1-9d66-52b883b4f8e5)
+
 
 # Estratégia da Solução
 Para garantir uma entrega rápida e eficiente do primeiro modelo, com o objetivo de trazer valor para a empresa e permitir decisões ágeis por parte do CCO, foi adotado o método CRISP-DM.
 
 O método CRISP-DM é composto por 9 etapas cíclicas, em que a cada iteração dessas etapas, o resultado de negócio é aprimorado, buscando entregas cada vez mais rápidas e de maior qualidade, com maior precisão. Isso possibilita que as equipes que utilizarão os resultados desenvolvidos tenham um produto minimamente utilizável já na primeira entrega, e que seja aprimorado ao longo do tempo.
 
-![CRISP-DM](https://github.com/user-attachments/assets/89e28610-d2a7-47cb-8280-608c292465b0)
+![image](https://github.com/user-attachments/assets/76d3e2c9-a5e1-4836-92f4-b092fe3d6fea)
+
 
 CRISP-DM:
 
