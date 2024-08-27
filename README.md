@@ -177,10 +177,3 @@ Utilizar outra estratégia para Fine Tuning Hyperparameter
 Criar outras opções de comunicação no chat do Bot Telegram
 
 
-
-
-
-
-
-
->>>>>>> 3ed246d3edd54e61753671d1230f1fc5266f54a7
