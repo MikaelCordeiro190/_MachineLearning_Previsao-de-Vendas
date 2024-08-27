@@ -114,14 +114,16 @@ Apesar do modelo de Random Forest Regressor apresentar melhor desempenho, o mode
 
 Performance Final: após a utilização da técnica de Random Forest, na otimização dos Hyperparameter Fine Tuning, o modelo final apresentou as seguintes métricas de erro:
 
-![image](https://github.com/user-attachments/assets/3cdfcd61-e267-4e56-858c-f1600552b8f6)
+![image](https://github.com/user-attachments/assets/2aaf7f23-737b-4406-98da-7ef0d832443e)
+
 
 
 # Hiperparâmetros
 
 Foi empregada a técnica de Bayesian SearchCV para otimizar a busca dos melhores hiperparâmetros. A fim de identificar o parâmetro ideal, optei por utilizar uma amostra referente a um período de 1 ano. Essa escolha permite aumentar o número de iterações em um espaço de tempo reduzido, maximizando a probabilidade de localizar um mínimo global.
 
-![image](https://github.com/user-attachments/assets/585887c1-ab99-43ec-87e0-a2448ebabcef)
+![image](https://github.com/user-attachments/assets/d7059dfa-59f3-4de1-974e-dee3d4f2300d)
+
 
 # Performance do modelo
 
@@ -129,22 +131,26 @@ Ao analisar os dois primeiros gráficos abaixo, é evidente que o modelo é capa
 
 Já nos dois últimos gráficos, a distribuição das previsões parece seguir uma distribuição normal. No entanto, é notável que tanto a kurtosis (43.03) quanto a Skewness (2.31) apresentam valores elevados. Além disso, ao examinarmos o quarto gráfico, onde estão plotados os erros, podemos observar que muitas previsões estão fora dos limites do "bigode do boxplot", indicado por uma linha tracejada, e também podemos identificar valores extremos destacados em vermelho.
 
-![image](https://github.com/user-attachments/assets/39446251-658c-4b86-a961-cb55519e54fc)
+![image](https://github.com/user-attachments/assets/9aefa6b8-7553-4b04-b12b-b199ed4e0e5d)
+
 
 
 # 1.2 Performance por Loja
 
 Como mencionado anteriormente, há lojas com erros muito acima da média, podendo ultrapassar os 60%, conforme evidenciado no primeiro gráfico desta seção. No segundo conjunto de gráficos, observamos que aproximadamente 700 lojas apresentam erros de até 10%, o que é um desempenho excelente para o nosso problema de negócio. Além disso, temos um grupo com pouco mais de 300 lojas, nas quais os erros variam entre 10% e 15%, enquanto as demais lojas apresentam erros superiores a 20%.
 
-![image](https://github.com/user-attachments/assets/0dc651df-addd-44e9-bbf2-27707b74c4d6)
+![image](https://github.com/user-attachments/assets/2ee0f622-72d2-412f-a35d-8c10250b317d)
 
-![image](https://github.com/user-attachments/assets/4339911e-2126-4285-b83a-9581cb4e3f74)
+
+![image](https://github.com/user-attachments/assets/b2f5d9fd-4f3b-443c-afd8-3279a5b999ce)
+
 
 # Final Resultado em R$
 
 Realizando-se a somatória de cada loja, em cada cenário, conseguimos chegar a uma predição de valor para receita final, considerando todas as lojas Rossmann Store:
 
-![image](https://github.com/user-attachments/assets/db9fa4c3-ba6d-4e37-81a6-6370efaf991a)
+![image](https://github.com/user-attachments/assets/3105927e-4931-4460-81d6-410d3a6aee98)
+
 
 # Conclusões
 
